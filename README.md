@@ -15,7 +15,6 @@ Hi, I'm Shivansh Deshwal 👋<br><br>I'm passionate about technology and enjoy b
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic\&logo=r\&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=plastic\&logo=scala\&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic\&logo=c\&logoColor=white)
 
 ### 🤖 AI, Machine Learning & Data Science
 
