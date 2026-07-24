@@ -1,146 +1,262 @@
-# 💫 About Me:
-Hi, I'm Shivansh Deshwal 👋<br><br>I'm passionate about technology and enjoy building practical solutions through software and data-driven approaches. I love exploring new tools, learning modern technologies, and working on projects that solve real-world problems. Always curious, always learning, and always building.<br>
+<div align="center">
 
+# 👋 Hi, I'm Shivansh Deshwal
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshdeshwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanshdeshwal55555@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=950&lines=%E2%98%95+Java+Full+Stack+Developer;%F0%9F%A4%96+AI-Powered+Application+Developer;%E2%9A%99%EF%B8%8F+Spring+Boot+%E2%80%A2+React+%E2%80%A2+FastAPI;%F0%9F%92%BB+Software+Engineer+%7C+Problem+Solver;%F0%9F%A7%A0+Generative+AI+%26+Machine+Learning;%E2%98%81%EF%B8%8F+Cloud+%E2%80%A2+DevOps+%E2%80%A2+Microservices;%F0%9F%93%8A+Data+Analytics+%26+Intelligent+Systems;%F0%9F%93%B1+Web+%E2%80%A2+Mobile+%E2%80%A2+Cloud+Applications;%F0%9F%8C%8D+Turning+Ideas+Into+Digital+Products;%F0%9F%9A%80+Always+Learning+%E2%80%A2+Always+Innovating" alt="Typing SVG" />
 
-# 💻 Tech Stack:
+### 🚀 Passionate about Java Full Stack Development, Generative AI, Software Engineering & Data-Driven Solutions
 
-### 🖥️ Programming Languages
+</div>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic\&logo=python\&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic\&logo=openjdk\&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic\&logo=dart\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic\&logo=r\&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=plastic\&logo=scala\&logoColor=white)
+<p align="center">
+<img alt="Coder GIF" width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+</p>
 
-### 🤖 AI, Machine Learning & Data Science
+# 💫 About Me
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic\&logo=TensorFlow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic\&logo=Keras\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic\&logo=pytorch\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic\&logo=Matplotlib\&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic\&logo=plotly\&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic\&logo=numpy\&logoColor=blue)
+I'm a **Java Full Stack Developer** passionate about building scalable, intelligent, and user-centric applications. My interests span **Generative AI, Software Engineering, Cloud Computing, and Modern Application Development**, where I enjoy transforming ideas into practical, real-world solutions through clean architecture and innovative technologies.
 
-### 📈 Analytics, Monitoring & Project Management
+My experience includes **Java Full Stack Development, AI & Machine Learning, Web & Mobile Development, Cloud Technologies, Data Analytics, and DevOps**, enabling me to design, develop, and deploy end-to-end applications across diverse domains.
 
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=plastic\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic\&logo=tableau\&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic\&logo=grafana\&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic\&logo=jira\&logoColor=white)
+- ☕ Building scalable applications using **Java, Spring Boot, Spring Security, Hibernate & Microservices**
+- 🤖 Developing AI-powered applications with **Generative AI, LLMs, AI Agents & Machine Learning**
+- ☁️ Working with **Cloud Platforms, Docker, Databases & RESTful APIs**
+- 🌐 Creating responsive **Web & Mobile Applications** with modern technologies
+- 🚀 Passionate about solving real-world problems through technology and continuous innovation
+- 🤝 Open to collaborating on innovative software engineering and AI projects
 
-### ☁️ Cloud & Infrastructure
+---
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic\&logo=amazon-aws\&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic\&logo=microsoftazure\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic\&logo=google-cloud\&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic\&logo=Cloudflare\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic\&logo=oracle\&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic\&logo=vercel\&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic\&logo=netlify\&logoColor=#00C7B7)
+# 🌐 Connect With Me
 
-### 📱 Mobile Development
+<p align="left">
+<a href="https://linkedin.com/in/shivanshdeshwal" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic\&logo=Flutter\&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic\&logo=react\&logoColor=%2361DAFB)
+<a href="mailto:shivanshdeshwal55555@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🌐 Web Development
+</p>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic\&logo=react\&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic\&logo=angular\&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic\&logo=node.js\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic\&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic\&logo=streamlit\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic\&logo=tailwind-css\&logoColor=white)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic\&logo=react)
+---
 
-### 🗄️ Databases
+# 💻 Tech Stack
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic\&logo=mongodb\&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic\&logo=postgresql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic\&logo=firebase\&logoColor=ffcd34)
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic\&logo=apache-cassandra\&logoColor=white)
+## ☕ Java Full Stack Development
 
-### 📊 Big Data & Data Engineering
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=plastic\&logo=apachehive\&logoColor=black)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic\&logo=apachehadoop\&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic\&logo=apachespark\&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic\&logo=apachekafka)
+---
 
-### 🛠️ DevOps, Build & Development Tools
+## 🤖 AI • Machine Learning • Generative AI
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic\&logo=docker\&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic\&logo=Gradle\&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic\&logo=yarn\&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic\&logo=apache\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic\&logo=powershell\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 
-### 🌐 Networking & Enterprise Technologies
+---
 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic\&logo=cisco\&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic\&logo=.net\&logoColor=white)
+## 🌐 Frontend Development
 
-### 🎨 UI/UX & Design Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic\&logo=Canva\&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic\&logo=sketch\&logoColor=black)
-![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=plastic\&logo=proto.io\&logoColor=00e5ff)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic\&logo=adobe\&logoColor=white)
+---
+
+## ⚙️ Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+---
+
+## 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge)
+![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+
+---
+
+## ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+## 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## 📊 Data Analytics & Big Data
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+## 🛠️ Tools & IDEs
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
 
 # 🚀 Featured Projects
 
-### 🌊 [AquaVerse-AI](https://github.com/Shivansh-3010/AquaVerse-AI)
+## 🤖 CodeLens AI — AI-Powered Code Review Platform
 
-🔹 AI-powered marine intelligence mobile application designed to provide smart insights and decision support.
+A production-grade AI-powered code review platform that helps developers analyze, review, and improve code using multiple Large Language Models.
 
-🔹 Built using Flutter, Machine Learning, Geospatial Technologies, and API Integration.
+**Highlights**
+- 🧠 Supports OpenAI, Google Gemini, Anthropic Claude & Ollama
+- ☕ Java 21, Spring Boot, React, Monaco Editor
+- 🔒 Secure authentication with BYOK & Admin API Key Management
+- 🐳 Dockerized architecture with PostgreSQL & Redis
 
-🔹 Combines intelligent predictions, interactive visualizations, and chatbot assistance.
-
----
-
-### 🦴 [BoneFractureClassification](https://github.com/Shivansh-3010/BoneFractureClassification)
-
-🔹 Deep Learning-based medical image classification system for fracture detection.
-
-🔹 Built using TensorFlow, Keras, ResNet50 Transfer Learning, Python, and Streamlit.
-
-🔹 Achieved 92.73% test accuracy and provides real-time predictions through a user-friendly interface.
+**Tech Stack:** Java • Spring Boot • React • Docker • PostgreSQL • Redis • AI APIs
 
 ---
 
-### 🤖 [AI-ChatBot](https://github.com/Shivansh-3010/Ai-ChatBot)
+## 📈 FinVerse AI — Financial Intelligence Platform
 
-🔹 Intelligent conversational chatbot designed to provide interactive and human-like responses.
+An end-to-end AI-powered financial intelligence platform that combines technical analysis, forecasting, news intelligence, and risk assessment for smarter investment decisions.
 
-🔹 Built using modern AI technologies, natural language processing concepts, and user-focused design.
+**Highlights**
+- 📊 Advanced Technical Indicators & Market Analytics
+- 🤖 AI-powered Forecasting & Financial Insights
+- 📰 News Intelligence & Sentiment Analysis
+- ⚡ FastAPI backend with scalable architecture
 
-🔹 Focused on enhancing communication, automation, and real-time user engagement.
+**Tech Stack:** Python • FastAPI • PostgreSQL • Redis • Machine Learning • Docker
 
 ---
 
-### 📈 [Data Analytics & Visualization Projects](https://github.com/Shivansh-3010/Coffee-Chain-Dashboard)
+## 🌊 AquaVerse AI — Coastal Intelligence Platform
 
-🔹 Developed analytical solutions involving data preprocessing, visualization, dashboarding, and predictive modeling.
+An AI-powered mobile application that delivers real-time coastal safety insights, beach recommendations, and marine intelligence using geospatial technologies and live ocean data.
 
-🔹 Worked with Python, Power BI, Tableau, Pandas, NumPy, and Machine Learning techniques.
+**Highlights**
+- 🌊 Coastal Risk Assessment
+- 🤖 AI Assistant powered by Gemini
+- 🗺️ Interactive Maps & Real-Time Ocean Data
+- 📱 Cross-platform Flutter application
 
-🔹 Focused on transforming raw data into actionable insights and decision support systems.
+**Tech Stack:** Flutter • Firebase • Gemini AI • REST APIs • Machine Learning
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shivansh-3010&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Shivansh-3010&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shivansh-3010&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-<!-- Proudly created by Shivansh Deshwal ) -->
+## 🦴 Bone Fracture Classification System
+
+A deep learning-powered medical imaging system for automated bone fracture detection using transfer learning techniques.
+
+**Highlights**
+- 🧠 ResNet50 Transfer Learning
+- 📊 92.73% Test Accuracy
+- 📄 Automated PDF Reports
+- 🌐 Interactive Streamlit Interface
+
+**Tech Stack:** Python • TensorFlow • Keras • Streamlit • OpenCV
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=Shivansh-3010&show_icons=true&theme=default&hide_border=true&include_all_commits=true"/>
+  <img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shivansh-3010&layout=compact&theme=default&hide_border=true"/>
+
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivansh-3010&theme=default&hide_border=true"/>
+</p>
+
+# 📈 Contribution Graph
+
+[![Shivansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivansh-3010&theme=github-compact)](https://github.com/Shivansh-3010)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Shivansh-3010/Shivansh-3010/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
