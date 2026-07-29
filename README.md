@@ -234,7 +234,10 @@ A deep learning-powered medical imaging system for automated bone fracture detec
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivansh-3010&theme=default&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Shivansh-3010&theme=default&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 # 📈 Contribution Graph
